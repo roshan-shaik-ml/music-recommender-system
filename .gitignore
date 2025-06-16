@@ -1,5 +1,6 @@
+.env
+.DS_Store
 .venv/
 .idea/
 chroma_db/
 chroma_db_*/**/*
-git branch -M main
