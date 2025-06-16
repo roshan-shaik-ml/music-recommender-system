@@ -18,8 +18,8 @@ A modern, Gen Z-themed Streamlit application that helps users discover songs, fe
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd song-finder
+   git clone https://github.com/roshan-shaik-ml/music-recommender-system.git
+   cd music-recommender-system
    ```
 
 2. **Create a virtual environment**
