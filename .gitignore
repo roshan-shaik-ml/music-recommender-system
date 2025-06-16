@@ -4,3 +4,4 @@
 .idea/
 chroma_db/
 chroma_db_*/**/*
+song_finder.log
