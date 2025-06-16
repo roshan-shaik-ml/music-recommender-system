@@ -1,0 +1,267 @@
+2025-06-15 19:34:10,336 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-15 19:34:10,371 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:34:10,371 - INFO - Initialized ChromaDBManager
+2025-06-15 19:34:10,372 - INFO - Initialized session state
+2025-06-15 19:34:10,372 - INFO - Initialized SongFinderUI
+2025-06-15 19:34:10,372 - INFO - Starting SongFinderUI application
+2025-06-15 19:34:18,926 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:34:18,928 - INFO - Initialized ChromaDBManager
+2025-06-15 19:34:18,928 - INFO - Initialized session state
+2025-06-15 19:34:18,928 - INFO - Initialized SongFinderUI
+2025-06-15 19:34:18,928 - INFO - Starting SongFinderUI application
+2025-06-15 19:34:18,929 - INFO - Getting suggestions for query: Anaconda
+2025-06-15 19:34:18,929 - INFO - Fetching suggestions for query: Anaconda
+2025-06-15 19:34:19,701 - INFO - Found 15 suggestions for query: Anaconda
+2025-06-15 19:34:20,974 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:34:20,975 - INFO - Initialized ChromaDBManager
+2025-06-15 19:34:20,975 - INFO - Initialized session state
+2025-06-15 19:34:20,975 - INFO - Initialized SongFinderUI
+2025-06-15 19:34:20,975 - INFO - Starting SongFinderUI application
+2025-06-15 19:34:20,976 - INFO - Getting suggestions for query: Anaconda
+2025-06-15 19:34:20,977 - INFO - Fetching suggestions for query: Anaconda
+2025-06-15 19:34:21,725 - INFO - Found 15 suggestions for query: Anaconda
+2025-06-15 19:34:21,727 - INFO - Updating session state with song: Anaconda by Nicki Minaj
+2025-06-15 19:34:21,783 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:34:21,784 - INFO - Initialized ChromaDBManager
+2025-06-15 19:34:21,784 - INFO - Initialized session state
+2025-06-15 19:34:21,784 - INFO - Initialized SongFinderUI
+2025-06-15 19:34:21,784 - INFO - Starting SongFinderUI application
+2025-06-15 19:34:21,784 - INFO - Getting suggestions for query: Anaconda
+2025-06-15 19:34:21,784 - INFO - Fetching suggestions for query: Anaconda
+2025-06-15 19:34:22,629 - INFO - Found 15 suggestions for query: Anaconda
+2025-06-15 19:34:22,633 - INFO - Fetching lyrics for: Anaconda by Nicki Minaj
+2025-06-15 19:34:22,634 - INFO - Fetching lyrics for: Anaconda by Nicki Minaj
+2025-06-15 19:34:23,339 - INFO - Successfully fetched lyrics for: Anaconda
+2025-06-15 19:34:23,340 - INFO - Successfully fetched and cleaned lyrics for: Anaconda
+2025-06-15 19:34:26,227 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:34:26,228 - INFO - Initialized ChromaDBManager
+2025-06-15 19:34:26,228 - INFO - Initialized session state
+2025-06-15 19:34:26,228 - INFO - Initialized SongFinderUI
+2025-06-15 19:34:26,228 - INFO - Starting SongFinderUI application
+2025-06-15 19:34:26,230 - INFO - Getting suggestions for query: Anaconda
+2025-06-15 19:34:26,230 - INFO - Fetching suggestions for query: Anaconda
+2025-06-15 19:34:27,151 - INFO - Found 15 suggestions for query: Anaconda
+2025-06-15 19:34:27,157 - INFO - Finding similar songs for: Anaconda by Nicki Minaj
+2025-06-15 19:34:28,039 - INFO - Distance range - Min: 0.06100839376449585, Max: 0.8006654977798462
+2025-06-15 19:34:28,039 - INFO - Skipping current song: Anaconda
+2025-06-15 19:34:28,039 - INFO - Found similar song: Anaconda Clean by Nicki Minaj (Score: 0.95)
+2025-06-15 19:34:28,039 - INFO - Found similar song: Anaconda Demo by Nicki Minaj (Score: 0.13)
+2025-06-15 19:34:28,039 - INFO - Found similar song: Jump Man Remix by DaBaby (Score: 0.05)
+2025-06-15 19:34:28,039 - INFO - Found similar song: Swear by Rich Homie Quan (Score: 0.02)
+2025-06-15 19:34:28,039 - INFO - Found similar song: Cant Show Weakness by J4ydizz1e (Score: 0.02)
+2025-06-15 19:34:28,039 - INFO - Found similar song: Head Off by DaBaby & YoungBoy Never Broke Again (Score: 0.01)
+2025-06-15 19:34:28,039 - INFO - Found similar song: Big Mouth by Rubi Rose (Score: 0.01)
+2025-06-15 19:34:28,040 - INFO - Found similar song: Cathedral by Summrs (Score: 0.01)
+2025-06-15 19:34:28,040 - INFO - Found similar song: Baguettes in the Face by Mustard (Score: 0.00)
+2025-06-15 19:34:28,040 - INFO - Found similar song: Joy Ride by J $tash (Score: 0.00)
+2025-06-15 19:34:28,040 - INFO - Returning 10 similar songs
+2025-06-15 19:37:12,946 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-15 19:37:12,978 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:37:12,978 - INFO - Initialized ChromaDBManager
+2025-06-15 19:37:12,979 - INFO - Initialized session state
+2025-06-15 19:37:12,979 - INFO - Initialized SongFinderUI
+2025-06-15 19:37:12,979 - INFO - Starting SongFinderUI application
+2025-06-15 19:46:16,208 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-15 19:46:16,243 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:46:16,244 - INFO - Initialized ChromaDBManager
+2025-06-15 19:46:16,244 - INFO - Initialized session state
+2025-06-15 19:46:16,245 - INFO - Initialized SongFinderUI
+2025-06-15 19:46:16,245 - INFO - Starting SongFinderUI application
+2025-06-15 19:46:22,692 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:46:22,693 - INFO - Initialized ChromaDBManager
+2025-06-15 19:46:22,693 - INFO - Initialized session state
+2025-06-15 19:46:22,693 - INFO - Initialized SongFinderUI
+2025-06-15 19:46:22,693 - INFO - Starting SongFinderUI application
+2025-06-15 19:46:22,695 - INFO - Getting suggestions for query: Blank Space
+2025-06-15 19:46:22,695 - INFO - Fetching suggestions for query: Blank Space
+2025-06-15 19:46:23,497 - INFO - Found 15 suggestions for query: Blank Space
+2025-06-15 19:46:25,272 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:46:25,273 - INFO - Initialized ChromaDBManager
+2025-06-15 19:46:25,274 - INFO - Initialized session state
+2025-06-15 19:46:25,274 - INFO - Initialized SongFinderUI
+2025-06-15 19:46:25,274 - INFO - Starting SongFinderUI application
+2025-06-15 19:46:25,275 - INFO - Getting suggestions for query: Blank Space
+2025-06-15 19:46:25,276 - INFO - Fetching suggestions for query: Blank Space
+2025-06-15 19:46:26,060 - INFO - Found 15 suggestions for query: Blank Space
+2025-06-15 19:46:26,062 - INFO - Updating session state with song: Blank Space by Taylor Swift
+2025-06-15 19:46:26,121 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:46:26,121 - INFO - Initialized ChromaDBManager
+2025-06-15 19:46:26,121 - INFO - Initialized session state
+2025-06-15 19:46:26,121 - INFO - Initialized SongFinderUI
+2025-06-15 19:46:26,121 - INFO - Starting SongFinderUI application
+2025-06-15 19:46:26,122 - INFO - Getting suggestions for query: Blank Space
+2025-06-15 19:46:26,122 - INFO - Fetching suggestions for query: Blank Space
+2025-06-15 19:46:26,932 - INFO - Found 15 suggestions for query: Blank Space
+2025-06-15 19:46:26,938 - INFO - Fetching lyrics for: Blank Space by Taylor Swift
+2025-06-15 19:46:26,939 - INFO - Fetching lyrics for: Blank Space by Taylor Swift
+2025-06-15 19:46:27,630 - INFO - Successfully fetched lyrics for: Blank Space
+2025-06-15 19:46:27,631 - INFO - Successfully fetched and cleaned lyrics for: Blank Space
+2025-06-15 19:46:29,526 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:46:29,529 - INFO - Initialized ChromaDBManager
+2025-06-15 19:46:29,529 - INFO - Initialized session state
+2025-06-15 19:46:29,529 - INFO - Initialized SongFinderUI
+2025-06-15 19:46:29,529 - INFO - Starting SongFinderUI application
+2025-06-15 19:46:29,530 - INFO - Getting suggestions for query: Blank Space
+2025-06-15 19:46:29,531 - INFO - Fetching suggestions for query: Blank Space
+2025-06-15 19:46:30,299 - INFO - Found 15 suggestions for query: Blank Space
+2025-06-15 19:46:34,849 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:46:34,852 - INFO - Initialized ChromaDBManager
+2025-06-15 19:46:34,852 - INFO - Initialized session state
+2025-06-15 19:46:34,852 - INFO - Initialized SongFinderUI
+2025-06-15 19:46:34,852 - INFO - Starting SongFinderUI application
+2025-06-15 19:46:34,853 - INFO - Getting suggestions for query: Blank Space
+2025-06-15 19:46:34,854 - INFO - Fetching suggestions for query: Blank Space
+2025-06-15 19:46:35,692 - INFO - Found 15 suggestions for query: Blank Space
+2025-06-15 19:46:35,705 - INFO - Finding similar songs for: Blank Space by Taylor Swift
+2025-06-15 19:46:36,610 - INFO - Distance range - Min: 0.07971212267875671, Max: 0.6636261940002441
+2025-06-15 19:46:36,610 - INFO - Skipping current song: Blank Space
+2025-06-15 19:46:36,610 - INFO - Found similar song: Blank Space Lenay cover by Lenay (Score: 0.86, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,610 - INFO - Found similar song: Taylor Swift - Blank Space | Mental Manadhil Vidya Vox Mashup Cover by Vidya Vox (Score: 0.17, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,611 - INFO - Found similar song: Anyone But Me by blackbear (Score: 0.12, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,611 - INFO - Found similar song: Aries Revenge by Aries Kyss (Score: 0.10, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,611 - INFO - Found similar song: Clear Eyes by Aiden Swank + Bleachblonde (Score: 0.09, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,611 - INFO - Found similar song: Blew It by Maoli (Score: 0.06, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,611 - INFO - Found similar song: Young and Beautiful Myndset Remix by Lana Del Rey (Score: 0.05, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,611 - INFO - Found similar song: Love You by Ghost (Dancehall) (Score: 0.05, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,611 - INFO - Found similar song: Keep It at Genius by Dom Dom (Score: 0.05, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,611 - INFO - Found similar song: RIDE WITH ME by FLATOUTBRIAN (Score: 0.05, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,611 - INFO - Found similar song: Everyday Full Crew Rap Club Mix by Angie Stone (Score: 0.04, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,611 - INFO - Found similar song: Off 2 The Races by Joe Budden (Score: 0.03, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,611 - INFO - Found similar song: Close Friends by Lil Baby (Score: 0.03, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,611 - INFO - Found similar song: Toxic by Louis Blanco (Score: 0.02, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,611 - INFO - Found similar song: Dive by Ed Sheeran (Score: 0.01, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,611 - INFO - Found similar song: The Other Side by Brooklyn Michelle (Score: 0.01, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,611 - INFO - Found similar song: Vulnerable Free Cool by Kodak Black (Score: 0.00, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,611 - INFO - Found similar song: Lover I Dont Have to Love by Bright Eyes (Score: 0.00, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,611 - INFO - Found similar song: I Dont Wanna Live Forever by ZAYN & Taylor Swift (Score: 0.00, Lyrics similarity: 0.00)
+2025-06-15 19:46:36,611 - INFO - Returning 19 similar songs after filtering
+2025-06-15 19:47:12,409 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:47:12,412 - INFO - Initialized ChromaDBManager
+2025-06-15 19:47:12,412 - INFO - Initialized session state
+2025-06-15 19:47:12,412 - INFO - Initialized SongFinderUI
+2025-06-15 19:47:12,412 - INFO - Starting SongFinderUI application
+2025-06-15 19:47:12,414 - INFO - Getting suggestions for query: Blank Space
+2025-06-15 19:47:12,414 - INFO - Fetching suggestions for query: Blank Space
+2025-06-15 19:47:13,241 - INFO - Found 15 suggestions for query: Blank Space
+2025-06-15 19:58:43,813 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-15 19:58:43,850 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:58:43,851 - INFO - Initialized ChromaDBManager
+2025-06-15 19:58:43,852 - INFO - Initialized session state
+2025-06-15 19:58:43,852 - INFO - Initialized SongFinderUI
+2025-06-15 19:58:43,852 - INFO - Starting SongFinderUI application
+2025-06-15 19:58:47,086 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:58:47,088 - INFO - Initialized ChromaDBManager
+2025-06-15 19:58:47,088 - INFO - Initialized session state
+2025-06-15 19:58:47,089 - INFO - Initialized SongFinderUI
+2025-06-15 19:58:47,089 - INFO - Starting SongFinderUI application
+2025-06-15 19:58:47,092 - INFO - Getting suggestions for query: Blank Space
+2025-06-15 19:58:47,094 - INFO - Fetching suggestions for query: Blank Space
+2025-06-15 19:58:47,908 - INFO - Found 15 suggestions for query: Blank Space
+2025-06-15 19:58:48,952 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:58:48,953 - INFO - Initialized ChromaDBManager
+2025-06-15 19:58:48,954 - INFO - Initialized session state
+2025-06-15 19:58:48,954 - INFO - Initialized SongFinderUI
+2025-06-15 19:58:48,954 - INFO - Starting SongFinderUI application
+2025-06-15 19:58:48,955 - INFO - Getting suggestions for query: Blank Space
+2025-06-15 19:58:48,955 - INFO - Fetching suggestions for query: Blank Space
+2025-06-15 19:58:49,709 - INFO - Found 15 suggestions for query: Blank Space
+2025-06-15 19:58:49,711 - INFO - Updating session state with song: Blank Space by Taylor Swift
+2025-06-15 19:58:49,765 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:58:49,766 - INFO - Initialized ChromaDBManager
+2025-06-15 19:58:49,766 - INFO - Initialized session state
+2025-06-15 19:58:49,766 - INFO - Initialized SongFinderUI
+2025-06-15 19:58:49,766 - INFO - Starting SongFinderUI application
+2025-06-15 19:58:49,767 - INFO - Getting suggestions for query: Blank Space
+2025-06-15 19:58:49,767 - INFO - Fetching suggestions for query: Blank Space
+2025-06-15 19:58:50,594 - INFO - Found 15 suggestions for query: Blank Space
+2025-06-15 19:58:50,598 - INFO - Fetching lyrics for: Blank Space by Taylor Swift
+2025-06-15 19:58:50,599 - INFO - Fetching lyrics for: Blank Space by Taylor Swift
+2025-06-15 19:58:51,242 - INFO - Successfully fetched lyrics for: Blank Space
+2025-06-15 19:58:51,243 - INFO - Successfully fetched and cleaned lyrics for: Blank Space
+2025-06-15 19:58:53,520 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:58:53,522 - INFO - Initialized ChromaDBManager
+2025-06-15 19:58:53,522 - INFO - Initialized session state
+2025-06-15 19:58:53,522 - INFO - Initialized SongFinderUI
+2025-06-15 19:58:53,522 - INFO - Starting SongFinderUI application
+2025-06-15 19:58:53,523 - INFO - Getting suggestions for query: Blank Space
+2025-06-15 19:58:53,524 - INFO - Fetching suggestions for query: Blank Space
+2025-06-15 19:58:54,288 - INFO - Found 15 suggestions for query: Blank Space
+2025-06-15 19:58:54,299 - INFO - Finding similar songs for: Blank Space by Taylor Swift
+2025-06-15 19:58:55,154 - INFO - Distance range - Min: 0.07971212267875671, Max: 0.6636261940002441
+2025-06-15 19:58:55,154 - INFO - Skipping current song: Blank Space
+2025-06-15 19:58:55,155 - INFO - Raw lyrics similarity score: 0.79
+2025-06-15 19:58:55,155 - INFO - Normalized lyrics similarity score: 0.97
+2025-06-15 19:58:55,155 - INFO - Skipping lyrically similar song: Blank Space Lenay cover (similarity: 0.97)
+2025-06-15 19:58:55,156 - INFO - Raw lyrics similarity score: 0.60
+2025-06-15 19:58:55,156 - INFO - Normalized lyrics similarity score: 0.65
+2025-06-15 19:58:55,156 - INFO - Found similar song: Taylor Swift - Blank Space | Mental Manadhil Vidya Vox Mashup Cover by Vidya Vox (Score: 0.17, Lyrics similarity: 0.65)
+2025-06-15 19:58:55,157 - INFO - Raw lyrics similarity score: 0.52
+2025-06-15 19:58:55,157 - INFO - Normalized lyrics similarity score: 0.53
+2025-06-15 19:58:55,157 - INFO - Found similar song: Anyone But Me by blackbear (Score: 0.12, Lyrics similarity: 0.53)
+2025-06-15 19:58:55,157 - INFO - Raw lyrics similarity score: 0.52
+2025-06-15 19:58:55,157 - INFO - Normalized lyrics similarity score: 0.57
+2025-06-15 19:58:55,157 - INFO - Found similar song: Aries Revenge by Aries Kyss (Score: 0.10, Lyrics similarity: 0.57)
+2025-06-15 19:58:55,158 - INFO - Raw lyrics similarity score: 0.47
+2025-06-15 19:58:55,158 - INFO - Normalized lyrics similarity score: 0.47
+2025-06-15 19:58:55,158 - INFO - Found similar song: Clear Eyes by Aiden Swank + Bleachblonde (Score: 0.09, Lyrics similarity: 0.47)
+2025-06-15 19:58:55,158 - INFO - Raw lyrics similarity score: 0.53
+2025-06-15 19:58:55,158 - INFO - Normalized lyrics similarity score: 0.54
+2025-06-15 19:58:55,158 - INFO - Found similar song: Blew It by Maoli (Score: 0.06, Lyrics similarity: 0.54)
+2025-06-15 19:58:55,159 - INFO - Raw lyrics similarity score: 0.49
+2025-06-15 19:58:55,159 - INFO - Normalized lyrics similarity score: 0.48
+2025-06-15 19:58:55,159 - INFO - Found similar song: Young and Beautiful Myndset Remix by Lana Del Rey (Score: 0.05, Lyrics similarity: 0.48)
+2025-06-15 19:58:55,161 - INFO - Raw lyrics similarity score: 0.53
+2025-06-15 19:58:55,161 - INFO - Normalized lyrics similarity score: 0.53
+2025-06-15 19:58:55,161 - INFO - Found similar song: Love You by Ghost (Dancehall) (Score: 0.05, Lyrics similarity: 0.53)
+2025-06-15 19:58:55,162 - INFO - Raw lyrics similarity score: 0.47
+2025-06-15 19:58:55,162 - INFO - Normalized lyrics similarity score: 0.51
+2025-06-15 19:58:55,162 - INFO - Found similar song: Keep It at Genius by Dom Dom (Score: 0.05, Lyrics similarity: 0.51)
+2025-06-15 19:58:55,163 - INFO - Raw lyrics similarity score: 0.54
+2025-06-15 19:58:55,163 - INFO - Normalized lyrics similarity score: 0.57
+2025-06-15 19:58:55,163 - INFO - Found similar song: RIDE WITH ME by FLATOUTBRIAN (Score: 0.05, Lyrics similarity: 0.57)
+2025-06-15 19:58:55,164 - INFO - Raw lyrics similarity score: 0.52
+2025-06-15 19:58:55,164 - INFO - Normalized lyrics similarity score: 0.53
+2025-06-15 19:58:55,164 - INFO - Found similar song: Everyday Full Crew Rap Club Mix by Angie Stone (Score: 0.04, Lyrics similarity: 0.53)
+2025-06-15 19:58:55,165 - INFO - Raw lyrics similarity score: 0.48
+2025-06-15 19:58:55,165 - INFO - Normalized lyrics similarity score: 0.54
+2025-06-15 19:58:55,165 - INFO - Found similar song: Off 2 The Races by Joe Budden (Score: 0.03, Lyrics similarity: 0.54)
+2025-06-15 19:58:55,166 - INFO - Raw lyrics similarity score: 0.51
+2025-06-15 19:58:55,166 - INFO - Normalized lyrics similarity score: 0.52
+2025-06-15 19:58:55,166 - INFO - Found similar song: Close Friends by Lil Baby (Score: 0.03, Lyrics similarity: 0.52)
+2025-06-15 19:58:55,166 - INFO - Raw lyrics similarity score: 0.54
+2025-06-15 19:58:55,166 - INFO - Normalized lyrics similarity score: 0.59
+2025-06-15 19:58:55,166 - INFO - Found similar song: Toxic by Louis Blanco (Score: 0.02, Lyrics similarity: 0.59)
+2025-06-15 19:58:55,167 - INFO - Raw lyrics similarity score: 0.48
+2025-06-15 19:58:55,167 - INFO - Normalized lyrics similarity score: 0.47
+2025-06-15 19:58:55,167 - INFO - Found similar song: Dive by Ed Sheeran (Score: 0.01, Lyrics similarity: 0.47)
+2025-06-15 19:58:55,167 - INFO - Raw lyrics similarity score: 0.51
+2025-06-15 19:58:55,167 - INFO - Normalized lyrics similarity score: 0.51
+2025-06-15 19:58:55,167 - INFO - Found similar song: The Other Side by Brooklyn Michelle (Score: 0.01, Lyrics similarity: 0.51)
+2025-06-15 19:58:55,168 - INFO - Raw lyrics similarity score: 0.52
+2025-06-15 19:58:55,168 - INFO - Normalized lyrics similarity score: 0.54
+2025-06-15 19:58:55,168 - INFO - Found similar song: Vulnerable Free Cool by Kodak Black (Score: 0.00, Lyrics similarity: 0.54)
+2025-06-15 19:58:55,168 - INFO - Raw lyrics similarity score: 0.49
+2025-06-15 19:58:55,168 - INFO - Normalized lyrics similarity score: 0.49
+2025-06-15 19:58:55,168 - INFO - Found similar song: Lover I Dont Have to Love by Bright Eyes (Score: 0.00, Lyrics similarity: 0.49)
+2025-06-15 19:58:55,169 - INFO - Raw lyrics similarity score: 0.48
+2025-06-15 19:58:55,169 - INFO - Normalized lyrics similarity score: 0.51
+2025-06-15 19:58:55,169 - INFO - Found similar song: I Dont Wanna Live Forever by ZAYN & Taylor Swift (Score: 0.00, Lyrics similarity: 0.51)
+2025-06-15 19:58:55,169 - INFO - Returning 18 similar songs after filtering
+2025-06-15 19:59:00,769 - INFO - Initialized ARLLyricsAPI
+2025-06-15 19:59:00,770 - INFO - Initialized ChromaDBManager
+2025-06-15 19:59:00,770 - INFO - Initialized session state
+2025-06-15 19:59:00,770 - INFO - Initialized SongFinderUI
+2025-06-15 19:59:00,771 - INFO - Starting SongFinderUI application
+2025-06-15 19:59:00,772 - INFO - Getting suggestions for query: Blank Space
+2025-06-15 19:59:00,772 - INFO - Fetching suggestions for query: Blank Space
+2025-06-15 19:59:01,516 - INFO - Found 15 suggestions for query: Blank Space
+2025-06-15 20:00:30,942 - INFO - Initialized ARLLyricsAPI
+2025-06-15 20:00:30,946 - INFO - Initialized ChromaDBManager
+2025-06-15 20:00:30,947 - INFO - Initialized session state
+2025-06-15 20:00:30,947 - INFO - Initialized SongFinderUI
+2025-06-15 20:00:30,947 - INFO - Starting SongFinderUI application
+2025-06-15 20:02:58,872 - INFO - Initialized ARLLyricsAPI
+2025-06-15 20:02:58,873 - INFO - Initialized ChromaDBManager
+2025-06-15 20:02:58,874 - INFO - Initialized session state
+2025-06-15 20:02:58,874 - INFO - Initialized SongFinderUI
+2025-06-15 20:02:58,874 - INFO - Starting SongFinderUI application
