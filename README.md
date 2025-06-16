@@ -154,3 +154,4 @@ For support, please open an issue in the repository or contact the maintainers.
 ---
 
 Made with by Roshan 🇮🇳 and Uyen 🇻🇳
+Inspired by May
