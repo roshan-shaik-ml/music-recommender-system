@@ -33,13 +33,7 @@ A modern, Gen Z-themed Streamlit application that helps users discover songs, fe
    pip install -r requirements.txt
    ```
 
-4. **Set up environment variables**
-   Create a `.env` file in the project root:
-   ```
-   GENIUS_ACCESS_TOKEN=your_genius_token_here
-   ```
-
-5. **Run the application**
+4. **Run the application**
    ```bash
    streamlit run streamlit_ui.py
    ```
