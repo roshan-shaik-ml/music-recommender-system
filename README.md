@@ -18,8 +18,8 @@ A modern, Gen Z-themed Streamlit application that helps users discover songs, fe
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd song-finder
+   git clone https://github.com/roshan-shaik-ml/music-recommender-system.git
+   cd music-recommender-system
    ```
 
 2. **Create a virtual environment**
@@ -33,13 +33,7 @@ A modern, Gen Z-themed Streamlit application that helps users discover songs, fe
    pip install -r requirements.txt
    ```
 
-4. **Set up environment variables**
-   Create a `.env` file in the project root:
-   ```
-   GENIUS_ACCESS_TOKEN=your_genius_token_here
-   ```
-
-5. **Run the application**
+4. **Run the application**
    ```bash
    streamlit run streamlit_ui.py
    ```
@@ -159,4 +153,5 @@ For support, please open an issue in the repository or contact the maintainers.
 
 ---
 
-Made with ❤️ by Uyen and Roshan 
+Made with by Roshan 🇮🇳 and Uyen 🇻🇳 <br>
+Inspired by May
